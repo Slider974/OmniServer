@@ -1,0 +1,27 @@
+header{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.507);
+}
+body{
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    font-size: large;
+    background: url(assets/background.png);
+    
+}
+main{
+    background: rgb(100, 96, 96);
+    border-radius: 2% ;
+    box-shadow: 4px 4px 4px rgba(255, 255, 255, 0.644);
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+}
+#lien{
+    text-decoration: none;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
